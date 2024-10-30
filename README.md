@@ -4,11 +4,11 @@
 <h3 align="center"> Degradation Oriented and Regularized Network for <br> Real-World Depth Super-Resolution </h3>
 
 <p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1</sup>, 
-<a href="https://yanzq95.github.io/">Zhiqiang Yan</a><sup>1</sup>, 
+<a href="https://yanzq95.github.io/">Zhiqiang Yan✉</a><sup>1</sup>, 
 <a href="https://jspan.github.io/">Jinshan Pan</a><sup>1</sup>,
 <a href="https://guangweigao.github.io/">Guangwei Gao</a><sup>2</sup>,
 <a href="https://cszn.github.io/">Kai Zhang</a><sup>3</sup>,
-  <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang</a><sup>1</sup>  <!--&Dagger;-->
+  <a href="https://scholar.google.com/citations?user=6CIDtZQAAAAJ&hl=zh-CN">Jian Yang✉</a><sup>1</sup>  <!--&Dagger;-->
 </p>
 
 <p align="center">
