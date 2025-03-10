@@ -59,6 +59,8 @@ Pretrained models can be found in  <a href="https://github.com/yanzq95/DORNet/tr
 
 ## Training
 
+For the RGB-D-D and NYU-v2 datasets, we use a single GPU to train our DORNet. For the larger TOFDC dataset, we employ multiple GPUs to accelerate training.
+
 ### DORNet
 ```
 Train on real-world RGB-D-D
