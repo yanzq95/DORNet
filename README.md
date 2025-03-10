@@ -54,7 +54,7 @@ mmcv-full==1.7.2
 
 ## Models
 
-Pretrained models on RGB-D-D can be found in  <a href="https://github.com/anonymousdsr/DORNet/tree/main/checkpoints">checkpoints</a> (The remaining pre-trained models will be released once the paper is accepted).
+Pretrained models can be found in  <a href="https://github.com/anonymousdsr/DORNet/tree/main/checkpoints">checkpoints</a>.
 
 
 ## Training
