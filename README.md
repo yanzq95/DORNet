@@ -54,47 +54,51 @@ mmcv-full==1.7.2
 
 ## Models
 
-Pretrained models can be found in  <a href="https://github.com/anonymousdsr/DORNet/tree/main/checkpoints">checkpoints</a>.
+Pretrained models can be found in  <a href="https://github.com/yanzq95/DORNet/tree/main/checkpoints">checkpoints</a>.
 
 
 ## Training
 
 ### DORNet
-
 ```
-Train on real-world RGB-D-D and TOFDSR
-> python train.py
+Train on real-world RGB-D-D
+> python train_nyu_rgbdd.py
+Train on real-world TOFDSR
+> python -m torch.distributed.launch --nproc_per_node 2 train_tofdsr.py --result_root 'experiment/TOFDSR'
 Train on synthetic NYU-v2
-> python train.py --scale 4
+> python train_nyu_rgbdd.py
 ```
 
 ### DORNet-T
-
 ```
-Train on real-world RGB-D-D and TOFDSR
-> python train.py --tiny_model
+Train on real-world RGB-D-D
+> python train_nyu_rgbdd.py --tiny_model
+Train on real-world TOFDSR
+> python -m torch.distributed.launch --nproc_per_node 2 train_tofdsr.py --result_root 'experiment/TOFDSR' --tiny_model
 Train on synthetic NYU-v2
-> python train.py --scale 4 --tiny_model
+> python train_nyu_rgbdd.py --tiny_model
 ```
 
 ## Testing
 
-### SPFNet
-
+### DORNet
 ```
-Test on real-world RGB-D-D and TOFDSR
-> python test.py
+Test on real-world RGB-D-D
+> python test_nyu_rgbdd.py
+Test on real-world TOFDSR
+> python test_tofdsr.py
 Test on synthetic NYU-v2
-> python test.py --scale 4
+> python test_nyu_rgbdd.py
 ```
 
-### SPFNet-T
-
+### DORNet-T
 ```
-Test on real-world RGB-D-D and TOFDSR
-> python test.py --tiny_model
+Test on real-world RGB-D-D
+> python test_nyu_rgbdd.py --tiny_model
+Test on real-world TOFDSR
+> python test_tofdsr.py --tiny_model
 Test on synthetic NYU-v2
-> python test.py --scale 4 --tiny_model
+> python test_nyu_rgbdd.py --tiny_model
 ```
 
 ## Experiments
