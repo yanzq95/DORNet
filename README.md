@@ -1,10 +1,13 @@
 <h2 align="center"> :boom: The model.py will be released once the paper is accepted :boom: </h2>
 
 <p align="center">
-<h3 align="center"> Degradation Oriented and Regularized Network for <br> Real-World Depth Super-Resolution </h3>
-
-<p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1</sup>, 
-<a href="https://yanzq95.github.io/">Zhiqiang Yan✉</a><sup>1</sup>, 
+<h3 align="center"> Degradation Oriented and Regularized Network for <br> Real-World Depth Super-Resolution 
+<br>
+CVPR 2025
+</h3>
+  
+<p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1*</sup>, 
+<a href="https://yanzq95.github.io/">Zhiqiang Yan✉</a><sup>1*</sup>, 
 <a href="https://jspan.github.io/">Jinshan Pan</a><sup>1</sup>,
 <a href="https://guangweigao.github.io/">Guangwei Gao</a><sup>2</sup>,
 <a href="https://cszn.github.io/">Kai Zhang</a><sup>3</sup>,
@@ -12,6 +15,8 @@
 </p>
 
 <p align="center">
+  <sup>*</sup>Equal contribution&nbsp;&nbsp;&nbsp;
+  <sup>✉</sup>Corresponding author&nbsp;&nbsp;&nbsp;<br>
   <sup>1</sup>Nanjing University of Science and Technology&nbsp;&nbsp;&nbsp;
   <br>
   <sup>2</sup>Nanjing University of Posts and Telecommunications&nbsp;&nbsp;&nbsp;
