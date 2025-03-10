@@ -3,7 +3,7 @@
 <p align="center">
 <h3 align="center"> Degradation Oriented and Regularized Network for <br> Real-World Depth Super-Resolution 
 <br>
-CVPR 2025
+(CVPR 2025)
 </h3>
   
 <p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1*</sup>, 
