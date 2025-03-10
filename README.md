@@ -1,7 +1,7 @@
 <h2 align="center"> :boom: The model.py will be released once the paper is accepted :boom: </h2>
 
 <p align="center">
-<h3 align="center"> Degradation Oriented and Regularized Network for <br> Real-World Depth Super-Resolution 
+<h3 align="center"> DORNet: A Degradation Oriented and Regularized Network for <br> Blind Depth Super-Resolution
 <br>
 :star2: CVPR 2025 :star2:
 </h3>
