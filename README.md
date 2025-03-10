@@ -76,7 +76,7 @@ Train on synthetic NYU-v2
 Train on real-world RGB-D-D
 > python train_nyu_rgbdd.py --tiny_model
 Train on real-world TOFDSR
-> python -m torch.distributed.launch --nproc_per_node 2 train_tofdsr.py --result_root 'experiment/TOFDSR' --tiny_model
+> python -m torch.distributed.launch --nproc_per_node 2 train_tofdsr.py --result_root 'experiment/TOFDSR_T' --tiny_model
 Train on synthetic NYU-v2
 > python train_nyu_rgbdd.py --tiny_model
 ```
