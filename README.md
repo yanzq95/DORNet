@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="Figs/Pipeline.png", width="900"/>
+<img src="Figs/Pipeline.png", width="800"/>
 </p>
 
 
@@ -106,7 +106,7 @@ Test on synthetic NYU-v2
 ### Quantitative comparison
 
 <p align="center">
-<img src="Figs/Params_Time.png", width="550"/>
+<img src="Figs/Params_Time.png", width="500"/>
 <br>
 Complexity on RGB-D-D (w/o Noisy) tested by a 4090 GPU. A larger circle diameter indicates a higher inference time.
 </p>
