@@ -1,7 +1,7 @@
 <p align="center">
 <h3 align="center"> DORNet: A Degradation Oriented and Regularized Network for <br> Blind Depth Super-Resolution
 <br>
-:star2: CVPR 2025 :star2:
+:star2: CVPR 2025 (Oral) :star2:
 </h3>
   
 <p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1*</sup>, 
