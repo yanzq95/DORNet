@@ -121,3 +121,17 @@ Complexity on RGB-D-D (w/o Noisy) tested by a 4090 GPU. A larger circle diameter
 Visual results on the real-world RGB-D-D dataset (w/o Noise).
 </p>
 
+
+## Citation
+
+If our method proves to be of any assistance, please consider citing:
+```
+@inproceedings{wang2025dornet,
+  title={DORNet: A Degradation Oriented and Regularized Network for Blind Depth Super-Resolution},
+  author={Wang, Zhengxue and Yan, Zhiqiang and Pan, Jinshan and Gao, Guangwei and Zhang, Kai and Yang, Jian},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={15813--15822},
+  year={2025}
+}
+```
+
