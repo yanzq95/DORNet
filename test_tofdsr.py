@@ -5,7 +5,7 @@ import torchvision.transforms as transforms
 
 from net.dornet_ddp import Net
 
-from data.tofsr_dataloader import *
+from data.tofdc_dataloader import *
 
 import os
 
