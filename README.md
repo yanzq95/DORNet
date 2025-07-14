@@ -3,7 +3,13 @@
 <br>
 :star2: CVPR 2025 (Oral Presentation) :star2:
 </h3>
-  
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/RaynWu2002/DORNet">
+    <img src="https://img.shields.io/badge/Space-huggingface-ffd700.svg">
+  </a>
+</p>
+
 <p align="center"><a href="https://scholar.google.com/citations?user=VogTuQkAAAAJ&hl=zh-CN">Zhengxue Wang</a><sup>1*</sup>, 
 <a href="https://yanzq95.github.io/">Zhiqiang Yan✉</a><sup>1*</sup>, 
 <a href="https://jspan.github.io/">Jinshan Pan</a><sup>1</sup>,
