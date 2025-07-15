@@ -52,7 +52,7 @@ mmcv-full==1.7.2
 
 [RGB-D-D](https://github.com/lingzhi96/RGB-D-D-Dataset)
 
-[TOFDSR](https://yanzq95.github.io/projectpage/TOFDC/index.html)
+[TOFDSR](https://pan.baidu.com/s/1picVMbKHhs6-nZQSYImJWA) (nust)
 
 [NYU-v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
 
