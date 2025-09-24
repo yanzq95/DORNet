@@ -52,7 +52,7 @@ mmcv-full==1.7.2
 
 [RGB-D-D](https://github.com/lingzhi96/RGB-D-D-Dataset)
 
-[TOFDSR](https://yanzq95.github.io/projectpage/TOFDC/index.html)
+[TOFDSR](https://yanzq95.github.io/projectpage/TOFDC/index.html) (Camera intrinsics (512 x 384): fx=396.9825, cx=254.8772, fy=398.3018, cy=195.7754)
 
 [NYU-v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html)
 
